@@ -5,7 +5,7 @@ Online Flask Web App for Plant Disease Diagnosis from Images <br>
 
 ## Required Tools
 ```
-Python 3.6 or greater, Tensorflow 2, Flask, Scikit Learn, Scikit Image
+Python 3.6 or greater, Tensorflow 2, Flask, Gevent
 ```
 
 ## Run
